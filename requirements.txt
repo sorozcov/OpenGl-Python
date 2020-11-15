@@ -1,0 +1,9 @@
+click==7.1.2
+gl==0.2.36
+numpy==1.19.4
+opengles==0.0.1
+pygame==1.9.6
+pygame-menu==3.2.3
+PyGLM==1.99.3
+PyOpenGL==3.1.5
+pyperclip==1.8.1
